@@ -8,8 +8,10 @@
 </head>
 
 <body>
-	<div id="wrapper">
+
+	
     
 	<header>
     	<a href="index.php"><img src="images/logo.jpg" alt="logo"></a>
 	</header>
+    <div id="wrapper">
