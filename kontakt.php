@@ -1,5 +1,2 @@
-<?php include 'includes/header.inc.php';?>
-<p>Ulalala</p>
-
-
+<?php include 'includes/header.inc.php';?>	
 <?php include 'includes/footer.inc.php';?>

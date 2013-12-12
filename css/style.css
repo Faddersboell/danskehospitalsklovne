@@ -51,4 +51,40 @@ footer img{
 	text-align: center;
 	width: 100%;
 }
-	
+
+/*talebobel i mød klovnene*/
+.bubble,.bubblesvar {
+  position: relative;
+  background-color:#999;
+  margin: 20px; 0 20px 0;
+  padding:10px;
+  text-align:center;
+  width:50%;
+  border-radius:10px;
+  float:left;
+  
+}
+a .bubblesvar{
+text-decoration: none;
+color:black;
+}
+
+/*den trekant som udgør talebobbel*/
+.bubble:after,.bubblesvar:after{
+  position: absolute;
+  display: block;
+  content: "";  
+  border-color:#999 transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+   black 2px;
+  width:0;
+  position:absolute;
+  bottom:-18px;
+  left:1em;
+}
+
+.bubble:after{
+/*lav trekant i anden side*/	
+	}
