@@ -7,6 +7,7 @@
       <div><img src="images/mobil.png" alt="stotmobil"></div>
       <div><img src="images/kreditkort.jpg" alt="stotkort"></div>
       
+      
 </article>
       
 <?php include 'includes/footer.inc.php';?>
