@@ -1,10 +1,21 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-</head>
+<?php include 'includes/header.inc.php'?>
 
-<body>
-</body>
-</html>
+<setion>
+    <h1>Mød klovnene</h1>
+        <div class="bubble">
+            <p>Jeg hedder Angus!
+            Bla. bla. bla.
+            Jeg er på sygehuset i blå blå blå kender du den om rudoldJeg hedder Angus!
+            Bla. bla. bla.
+            Jeg er på sygehuset i blå blå blå kender du den om rudoldJeg hedder Angus!
+            Bla. bla. bla.
+           
+      ?</p>
+        </div>
+        
+       <div id="fotoklovn">
+       BILLEDE AF ANGUS
+       </div>
+</section>
+
+<?php include 'includes/footer.inc.php';?>
