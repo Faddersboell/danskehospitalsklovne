@@ -42,6 +42,16 @@ section img{
 	height: 50px;	
 }
 
+#mobil img {
+	float: left;
+	width: 40%;
+	margin: 1.5% 0 0 0;
+}
+#kort img {
+	float: right;
+	width: 40%;	
+}
+
 footer {
 	margin-top: 50%;
 }
