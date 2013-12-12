@@ -10,8 +10,6 @@
         <ul>
 </article>
 
-<li> hej </li>
-
     <article class="knap">
       	<a href="stot.php"><img src="images/logo-stot.png" alt="stot"></a>
             <p>Støt os</p>
