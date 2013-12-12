@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Danske hospitalsklovnes web app</title>
+<title><?php echo $pagetitle;?></title>
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
-<body>
+<body <?php echo $id;?>>
 
 	
     

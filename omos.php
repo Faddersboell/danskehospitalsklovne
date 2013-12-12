@@ -1,4 +1,6 @@
-<?php include 'includes/header.inc.php';?>
+<?php
+$id = "";
+include 'includes/header.inc.php';?>
 
     <article class="indhold">
         <h1>Om os</h1>

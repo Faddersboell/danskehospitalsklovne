@@ -10,10 +10,9 @@ header{
 	background-color:white;
 	width: 100%;
 	margin: 0 auto;
-
 	text-align:center;
 	position: relative;
-	}
+}
 header img{
 	text-align: center;
 	background-color: #FFF;
@@ -68,6 +67,8 @@ footer img{
 	width: 100%;
 	margin-top:20px;
 }
+.klovnside{
+	background-color:white;}
 
 /*talebobel i mød klovnene*/
 .bubble,.bubblesvar {
@@ -113,8 +114,7 @@ a .bubblesvar{
 	left:1em;
 	bottom:5px;
 	top:100%;
-	
-	
+
 }
 	
 	
