@@ -2,12 +2,10 @@
 
 <article class="indhold">
     <h1>Om os</h1>
-    	<ul>
-            <li>Har eksisteret siden 2003.</li>
-            <li>Humor letter og fremmer helbredelse.</li>
-            <li>Hospitalsklovnearbejdet har en stor virkning på kort og lang sigt.</li> 
-            <li>I dag er hospitalsklovnearbejdet et væsentligt element i håndteringen og behandlingen af syge børn på mange hospitaler i Danmark.</li>
-        <ul>
+        <li>Har eksisteret siden 2003.</li>
+        <li>Humor letter og fremmer helbredelse.</li>
+        <li>Hospitalsklovnearbejdet har en stor virkning på kort og lang sigt.</li> 
+        <li>I dag er hospitalsklovnearbejdet et væsentligt element i håndteringen og behandlingen af syge børn på mange hospitaler i Danmark.</li>
 </article>
 
     <article class="knap">
