@@ -42,8 +42,6 @@ section img{
 	height: 50px;	
 }
 
-
-
 footer {
 	margin-top: 50%;
 }
@@ -88,3 +86,5 @@ color:black;
 .bubble:after{
 /*lav trekant i anden side*/	
 	}
+	
+
