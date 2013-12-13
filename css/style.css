@@ -69,7 +69,7 @@ header img{
 	width: 40%;	
 }
 footer{	
-clear:both;
+	clear:both;
 }
 
 footer img{
@@ -94,12 +94,12 @@ footer img{
 }
 
 .talebobler{/**omkring alle talebobler*/
-float:left;
-width:50%;
+	float:left;
+	width:50%;
 
 }
 .talebobler2{ /*alle talebobler på første side*//
-width:100%;
+	width:100%;
 }
 
 /*talebobel i mød klovnene*/
@@ -140,8 +140,6 @@ a .bubblesvar{
 }
 /*klovnegalleri*/
 .klovnegalleri div{
-width:100%;
-	
+	width:100%;
 }
-	
-	
+
