@@ -5,7 +5,7 @@ include 'includes/header.inc.php';?>
 	<h1>Støt med kreditkort</h1>
     
     
-    <form action="tak.php" method="post">
+  	<form action="tak.php" method="post"> 
         <label for="navn"></label>
         <input type="text" name="navn" id="navn" placeholder="Navn" />
         
@@ -48,7 +48,7 @@ include 'includes/header.inc.php';?>
         <p>&nbsp;</p>
         
         <label for="kontrolcifre"></label>
-        <input type="text" name="kontrolcifre" id="" placeholder="Kontrolcifre" />
+        <input type="text" name="kontrolcifre" id="kontrolcifre" placeholder="Kontrolcifre" />
         
         <p>&nbsp;</p>
 
