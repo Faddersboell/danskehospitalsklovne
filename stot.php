@@ -9,6 +9,8 @@ include 'includes/header.inc.php';?>
       <div id="mobil"><img src="images/mobil.png" alt="stotmobil"></div>
       <div id="kort"><a href="stotkort.php"><img src="images/kort.png" alt="kort"></a></div>
       
+ 	<h6>Webshop</h6>
+      
       
 </article>
       
