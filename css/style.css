@@ -59,31 +59,52 @@ header img{
 	float: right;
 	width: 40%;	
 }
-footer{
-	
-clear:both;}
+footer{	
+clear:both;
+}
 
 footer img{
 	width: 100%;
 	margin-top:20px;
 }
+
+/**mød klovnene*/
 .klovnside{
-	background-color:white;}
+	background-color:white;
+}
+
+
+.fotoklovn{
+	width:50%;
+	float:left;
+}
+
+.fotoklovn img{
+	width:100%;
+	margin-left:20px;;
+}
+
+.talebobler{/**omkring alle talebobler*/
+float:left;
+width:50%;
+
+}
+.talebobler2{ /*alle talebobler på første side*//
+width:100%;
+}
 
 /*talebobel i mød klovnene*/
 .bubble,.bubblesvar {
 	position: relative;
-	background-color:white;
+	background-color:#eae2d7;
 	margin: 20px 0 20px 0;
 	padding:10px;
 	text-align:center;
-	width:50%;
-	border-radius:10px;
-	float:left;
-  
+	border-radius:10px; 	
 }
+
 a .bubblesvar{
-	text-decoration: none;
+	text-decoration:none;
 	color:black;
 }
 
@@ -92,7 +113,7 @@ a .bubblesvar{
   	position: absolute; /* er altid samme sted ift. .bubble*/
   	display: block;
 	content: "";  
-	border-color: transparent  transparent transparent white;
+	border-color: transparent  transparent transparent #eae2d7;
 	border-style: solid;
 	border-width: 15px;/*størrelse på trekant i talebobbe*/
 	top:15px;
@@ -100,21 +121,18 @@ a .bubblesvar{
 }
 
 .bubblesvar:after{
-/*lav trekant i anden side*/	
-	position: absolute;
- 	display: block;
-  	content: "";  
-  	border-color:white transparent transparent transparent;
-  	border-style: solid;
-  	border-width: 10px;
-	height:0;
-	width:0;
-	position:absolute;
+/*trekant i anden side*/	
+  	border-color:#eae2d7 transparent transparent transparent;
 	bottom:-18px;
 	left:1em;
 	bottom:5px;
 	top:100%;
 
+}
+/*klovnegalleri*/
+.klovnegalleri div{
+width:100%;
+	
 }
 	
 	

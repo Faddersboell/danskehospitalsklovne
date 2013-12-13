@@ -3,9 +3,9 @@ $pagetitle = "Klovne";
 $id = "class='klovnside'";
 include 'includes/header.inc.php'
 ?>
-
-<section>
-    <h1>Mød klovnene</h1>
+<h1>Mød klovnene</h1>
+<section class="talebobler">
+    
         <div class="bubble">
       		<p>Hej jeg hedde Angus! Vil du vide mere om mig?</p>
         </div>
@@ -13,10 +13,17 @@ include 'includes/header.inc.php'
         <a href="klovne2.php">
             <div class="bubblesvar"> Ja da! </div>
         </a>
-        
-          <div id="fotoklovn">
-      <img src="images/klovne/b5e78d7277.jpg">
-       </div>
+
 </section>
+  		<div class="fotoklovn">
+      		<img src="images/klovne/angus.png">
+       	</div> 
+        
+<section class="klovnegalleri">
+	<div> <img src="images/klovne/pilvenstre.png"> </div>
+    <div> <img src="images/klovne/pilhøjre.png"> </div>
+    
+
+</section>      
 
 <?php include 'includes/footer.inc.php';?>

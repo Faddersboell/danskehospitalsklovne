@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title><?php echo $pagetitle;?></title>
+<title>Danske hospitalsklovnes web app</title>
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
