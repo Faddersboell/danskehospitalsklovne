@@ -1,4 +1,6 @@
-<?php include 'includes/header.inc.php';?>
+<?php
+$id = "";
+include 'includes/header.inc.php';?>
 
 	<section id="lulu">
 		<img src="images/lulu.jpg" alt="Lulu">
