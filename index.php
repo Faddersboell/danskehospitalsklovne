@@ -14,20 +14,22 @@ include 'includes/header.inc.php';?>
                     	<p>Om os</p>
                 </article>
                 <article class="menupunkt">
-                    <a href="klovne.php"><img src="images/logo-klovn2.jpg" alt="klovne"></a>
+                    <a href="klovne.php"><img src="images/logo-klovnt2.png" alt="klovne"></a>
                     	<p>Klovne</p>
                 </article>
                 <article class="menupunkt">
                     <a href="stot.php"><img src="images/logo-stot2.png" alt="stot"></a>
                     	<p>Støt os</p>
                 </article>
-                <article class="menupunkt">
-                    <a href="https://www.facebook.com/DanskeHospitalsklovne"><img src="images/logofacebook2.jpg" alt="facebook"></a>
-                    	<p>Facebook</p>
-                </article>
+                
                 <article class="menupunkt">
                    <a href="test.php"> <img src="images/logotest2.png" alt="test"></a>
                     	<p>Test din viden</p>
+                </article>
+                
+                <article class="menupunkt">
+                    <a href="https://www.facebook.com/DanskeHospitalsklovne"><img src="images/logofacebook2.png" alt="facebook"></a>
+                    	<p>Facebook</p>
                 </article>
                 <article class="menupunkt">
                     <a href="kontakt.php"><img src="images/logomail2.png" alt="kontakt"></a>
