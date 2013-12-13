@@ -14,6 +14,7 @@ header{
 	text-align:center;
 	position: relative;
 }
+/*logo*/
 header img{
 	text-align: center;
 	background-color: #FFF;
@@ -21,12 +22,14 @@ header img{
 	max-height: 100%;
 }
 
-
+/*forside billede*/
 #lulu img{
 	text-align: center;
 	width: 100%;
 	border-radius: 10px;
 }
+
+/*menupunkterne på forsiden*/
 .menupunkt {
 	float: left;
 	width: 33.333%; 
@@ -34,10 +37,13 @@ header img{
 .menupunkt img {
 	width: 100%;
 }
+/*menupunkts tekst på forsiden*/
 .menupunkt p {
 	text-align: center;	
 	height: 50px;
 }
+
+/*Knapperne på om os siden*/
 .knap {
 	float: left;	
 	width: 50%;
@@ -51,11 +57,13 @@ header img{
 	height: 50px;	
 }
 
+/*Støt siden mobilknappen*/
 #mobil img {
 	float: left;
 	width: 40%;
 	margin: 1.5% 0 0 0;
 }
+/*Støt siden kreditkortknappen*/
 #kort img {
 	float: right;
 	width: 40%;	
