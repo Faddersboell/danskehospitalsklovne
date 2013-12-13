@@ -1,6 +1,7 @@
 body {
 	background-color: #eae2d7;
-	font-size: 1.4em;
+	
+	font-size: .8em;
 }
 #wrapper {
 	max-width: 80%;
@@ -34,6 +35,8 @@ header img{
 	width: 100%;
 }
 .menupunkt p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.4em;
 	text-align: center;	
 	height: 50px;
 }
