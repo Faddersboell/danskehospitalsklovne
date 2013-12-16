@@ -53,7 +53,7 @@ include 'includes/header.inc.php';?>
         <p>&nbsp;</p>
 
         
-        <input type="submit" name="send" value="Godkend Betaling" />
+        <input type="submit" name="send" class="button" value="Godkend Betaling" />
 	</form>
       
 <?php include 'includes/footer.inc.php';?>

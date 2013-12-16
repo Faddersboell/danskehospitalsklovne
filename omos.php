@@ -13,11 +13,11 @@ include 'includes/header.inc.php';?>
     </article>
     
         <article class="knap">
-            <a href="stot.php"><img src="images/logo-stot.png" alt="stot"></a>
+            <a href="stot.php"><img src="images/logo-stot2.png" alt="stot"></a>
                 <p>Støt os</p>
         </article>
         <article class="knap">
-            <a href="klovne.php"><img src="images/logo-klovn.jpg" alt="klovne"></a>
+            <a href="klovne.php"><img src="images/logo-klovnt2.png" alt="klovne"></a>
                 <p>Klovne</p>
         </article>
 
