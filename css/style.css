@@ -145,5 +145,15 @@ a .bubblesvar{
 
 /*Tekstboxenes style*/
 form {
+	text-align: center;
 	width: 100%;
 }
+input[type=text] {
+	border-radius: 3px;
+	width: 110px;
+}
+input[class=kort] {
+	border-radius: 3px;
+	width: 50px;
+}
+	

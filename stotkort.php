@@ -21,11 +21,11 @@ include 'includes/header.inc.php';?>
         
         <p>&nbsp;</p>
         
-        <label for="postnummer"></label>
-        <input type="text" name="postnummer" id="postnummer" placeholder="Postnummer" />
+        <label for="postnr."></label>
+        <input class="kort" name="postnr." id="postnr." placeholder="Post nr." />
         
        <label for="by"></label>
-        <input type="text" name="by" id="by" placeholder="By" />
+        <input class="kort" name="by" id="by" placeholder="By" />
         
         <p>&nbsp;</p>
         
@@ -40,10 +40,10 @@ include 'includes/header.inc.php';?>
         <p>&nbsp;</p>
         
         <label for="maned"></label>
-        <input type="text" name="maned" id="maned" placeholder="Måned" />
+        <input class="kort" name="maned" id="maned" placeholder="Måned" />
         
         <label for="ar"></label>
-        <input type="text" name="ar" id="ar" placeholder="År" />
+        <input class="kort" name="ar" id="ar" placeholder="År" />
         
         <p>&nbsp;</p>
         
