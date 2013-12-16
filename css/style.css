@@ -136,7 +136,6 @@ a .bubblesvar{
 	left:1em;
 	bottom:5px;
 	top:100%;
-	
 }
 /*klovnegalleri*/
 .klovnegalleri div{
@@ -145,15 +144,27 @@ a .bubblesvar{
 
 /*Tekstboxenes style*/
 form {
+	margin: 10% 0 0 0;
 	text-align: center;
 	width: 100%;
 }
-input[type=text] {
-	border-radius: 3px;
-	width: 110px;
+input[type=text] {		
+	border-radius: 3.5px;
+	width: 130px;
+}
+input[class=postnr] {
+	border-radius: 3.5px;
+	width: 40px;
+}
+input[class=by] {
+	border-radius: 3.5px;
+	width: 80px;
 }
 input[class=kort] {
-	border-radius: 3px;
-	width: 50px;
+	border-radius: 3.5px;
+	width: 60px;
 }
+
+
+
 	

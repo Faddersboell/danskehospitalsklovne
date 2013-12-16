@@ -22,10 +22,10 @@ include 'includes/header.inc.php';?>
         <p>&nbsp;</p>
         
         <label for="postnr."></label>
-        <input class="kort" name="postnr." id="postnr." placeholder="Post nr." />
+        <input class="postnr" name="postnr." id="postnr." placeholder="Post nr." />
         
        <label for="by"></label>
-        <input class="kort" name="by" id="by" placeholder="By" />
+        <input class="by" name="by" id="by" placeholder="By" />
         
         <p>&nbsp;</p>
         

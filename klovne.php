@@ -16,12 +16,12 @@ include 'includes/header.inc.php'
 
 </section>
   		<div class="fotoklovn">
-      		<img src="images/klovne/angus.png">
+      		<img src="images/klovne/angus.png" alt="angus">
        	</div> 
         
 <section class="klovnegalleri">
-	<div> <img src="images/klovne/pilvenstre.png"> </div>
-    <div> <img src="images/klovne/pilhøjre.png"> </div>
+	<div> <img src="images/klovne/pilvenstre.png" alt="pilvenstre"> </div>
+    <div> <img src="images/klovne/pilhøjre.png" alt="pilhojre"> </div>
     
 
 </section>      

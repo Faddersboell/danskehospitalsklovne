@@ -14,7 +14,7 @@ include 'includes/header.inc.php'?>
       </section>   
       
        <div class="fotoklovn">
-      		<img src="images/klovne/angus2.png">
+      		<img src="images/klovne/angus2.png" alt="angus2">
        	</div>
 
        
